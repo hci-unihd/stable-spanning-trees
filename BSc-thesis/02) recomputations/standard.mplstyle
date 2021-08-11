@@ -1,0 +1,27 @@
+# AXES
+axes.titlesize : 30
+axes.labelsize : 23
+
+# LINES
+lines.linestyle : none
+lines.markersize : 15
+lines.marker : .
+
+# TICKS
+xtick.labelsize : 15
+ytick.labelsize : 15
+xtick.major.size: 10
+xtick.minor.size: 4.5
+ytick.major.size: 10
+ytick.minor.size: 4.5
+
+# ERRORBAR
+errorbar.capsize: 3
+
+# LEGEND
+legend.fontsize: 23
+
+# FIGURE OUTPUT
+figure.figsize : 30, 15
+figure.dpi : 75
+savefig.dpi : 300
